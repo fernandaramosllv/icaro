@@ -1,0 +1,13 @@
+{
+  "sites": {
+    "youtube": "https://www.youtube.com",
+    "github": "https://github.com"
+  },
+  "apps": {
+    "meu editor": "C:\\Program Files\\Meu Editor\\editor.exe"
+  },
+  "voice": {
+    "model_path": "models/vosk-model-small-pt-0.3",
+    "device": null
+  }
+}

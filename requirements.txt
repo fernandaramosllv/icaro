@@ -1,0 +1,4 @@
+vosk==0.3.45
+sounddevice==0.5.1
+edge-tts==7.3.1
+miniaudio==1.71
